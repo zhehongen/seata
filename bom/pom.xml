@@ -107,7 +107,7 @@
         <annotation.api.version>1.2</annotation.api.version>
         <xz.version>1.8</xz.version>
         <commons-compress.version>1.19</commons-compress.version>
-        <ant.version>1.10.6</ant.version>
+        <ant.version>1.10.8</ant.version>
 
         <!-- Compiler settings properties -->
         <maven.compiler.source>1.8</maven.compiler.source>
